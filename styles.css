@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+#task-list {
+    list-style-type: none;
+}
+
+#task-list li {
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+}
