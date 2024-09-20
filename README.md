@@ -44,3 +44,4 @@ Cypress will execute the tests, and you will see the results in real-time in the
 (i use mochawesome and cypress-mochawesome-reporter to report result)
 
 ![testresultToDoLIST](https://github.com/user-attachments/assets/6021f798-4495-4e3b-b953-f09fbb5a65c9)
+[cypress-mochawesome-reporter](https://www.npmjs.com/package/cypress-mochawesome-reporter)
